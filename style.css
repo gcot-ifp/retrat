@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+
+.cara {
+  width: 450px;
+  height: 600px;
+  background: #ffe2b8;
+  top: 30px;
+  margin: 0 auto;
+  border-radius: 100% 100% 200% 200%;
+}
+
+.cabell {
+  width: 450px;
+  height: 135px;
+  background: #9c7500;
+  border-radius: 100% 100% 200% 200% / 100px 100px 50px 50px;
+}
+
+.frontal {
+  width: 450px;
+  height: 30px;
+  background:;
+  text-align: center;
+}
+
+.celles {
+  width: 105px;
+  height: 22px;
+  -webkit-border-radius: 40%;
+  background: #9c7500;
+  display: inline-block;
+  top: 50px;
+  margin: 0 35px;
+  transform: rotate(180deg);
+}
+
+.vista {
+  width: 450px;
+  height: 100px;
+  background:;
+  text-align: center;
+  position: absolute;
+  top: 200px;
+}
+
+.ulldre {
+  width: 95px;
+  height: 55px;
+  background: white;
+  border-radius: 50%;
+  display: inline-block;
+  top: 20px;
+  right: 41px;
+}
+
+.ullizq {
+  width: 95px;
+  height: 55px;
+  background: white;
+  border-radius: 50%;
+  display: inline-block;
+  top: 20px;
+  left: 41px;
+}
+
+.iris {
+  width: 40px;
+  height: 40px;
+  background: #5a5c01;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 0 2px #000;
+  margin: auto;
+  top: 8px;
+}
+
+.pupila {
+  width: 20px;
+  height: 20px;
+  background: black;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  top: 10px;
+  left: 10px;
+}
+
+.reflex {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background:white;
+  top: -10px ;
+  left: 8px;
+  box-shadow: 0px 0px 4px white;
+}
+
+.nas {
+  width: 450px;
+  height: 150px;
+  top: 100px;
+}
+
+.fosaizq {
+  width: 15px;
+  height: 10px;
+  background: #ffd39d; 
+  border-radius: 60%;
+  top: 60px;
+  left: 205px;
+  display: inline-block;
+}
+
+.fosadre {
+  width: 15px;
+  height: 10px;
+  background: #ffd39d; 
+  border-radius: 50%;
+  top: 60px;
+  left: 215px;
+  display: inline-block;
+}
+
+.boca {
+  width: 150px;
+  height: 40px;
+  background-color:#eb6f61 ;
+  border-radius: 35%;
+  top: 125px;
+  left: 150px;
+}
+
+.coll {
+  width: 250px;
+  height: 300px;
+  background-color: #fbd39d;
+  border-radius: 15%;
+  top: 75px;
+  left: 100px;
+  z-index: -289658346634;
+}
+
